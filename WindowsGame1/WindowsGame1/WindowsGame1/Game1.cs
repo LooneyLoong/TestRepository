@@ -36,6 +36,7 @@ namespace WindowsGame1
             // TODO: 在此处添加初始化逻辑
 
             base.Initialize();
+            this.Exit();
         }
 
         /// <summary>
